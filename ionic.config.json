@@ -1,0 +1,8 @@
+{
+  "name": "KnowYourCountry",
+  "app_id": "2d1edfe0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
